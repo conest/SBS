@@ -9,10 +9,17 @@
 ### 综合资料
 
 * [综合书籍](./general/books.md)
+* [综合学习站点 "learn x in y minutes"](https://learnxinyminutes.com/)
 
 ### 基础内容
 
-* Linux
+* [Linux](./linux/index.md)
+* [算法](./algorithm/index.md)
+
+### 开发工具
+
+* [Emacs](./tools/index.md#Emacs)
+* [Atom](./tools/index.md#Atom)
 
 ### 编程语言
 
