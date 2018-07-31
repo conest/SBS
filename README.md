@@ -28,6 +28,7 @@
 * [Ruby](./ruby/index.md)
 * Perl
 * [Lisp](./lisp/index.md)
+* [go](./go/index.md)
 * Java
 * C
 * C++
