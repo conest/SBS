@@ -19,6 +19,7 @@
 ### 开发工具
 
 * [Emacs](./tools/index.md#Emacs)
+* [Vi/Vim](./tools/index.md#Vi)
 * [Atom](./tools/index.md#Atom)
 
 ### 编程语言
